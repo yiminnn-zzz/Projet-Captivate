@@ -1,1 +1,4 @@
 # Projet-Captivate
+C'est un projet réalisé dans le cadre d'un cours sur le logiciel Adobe Captivate (Master 2 Communication Technique Multilingue à l'Université Paris Cité). L'objectif était de créer un module e-learning basé sur un manuel pour former les nouveaux employés de Starbucks. J'ai conçu un module permettant d'apprendre les pratiques liées au Tazo Tea. Grâce à ce projet, je maîtrise les différentes fonctionnalités de Captivate ainsi que les principes fondamentaux du e-learning. (Note : 19/20)
+
+This project was completed as part of a course on Adobe Captivate, during the Master’s program in Multilingual Technical Communication at Université Paris Cité. The objective was to create an e-learning module based on a manual to train new Starbucks employees. I designed a module to teach employees about Tazo Tea practices. Thanks to this project, I have mastered various Captivate functionalities as well as the fundamental principles of e-learning. (Grade: 19/20)
